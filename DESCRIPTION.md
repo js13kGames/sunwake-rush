@@ -1,7 +1,3 @@
----
-# See github.com/js13kGames/hello-world for supported frontmatter
----
-
 Race jet skis!
 
 WASD to control.
